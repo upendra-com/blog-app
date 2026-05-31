@@ -1,51 +1,36 @@
-# 📘 Basic CRUD Blog Application
+# Blog App
 
-## 📌 Project Description
+A PHP and MySQL based Blog Application that allows users to manage blog posts efficiently.
 
-This is a simple Blog Application built using PHP and MySQL.
-It allows users to register, login, and manage blog posts with full CRUD functionality.
+## Features
+- Create Blog Posts
+- View All Posts
+- Edit Existing Posts
+- Delete Posts
+- Search Posts by Title and Content
+- Pagination for Easy Navigation
+- Improved User Interface with Modern Styling
 
-## ✨ Features
+## Technologies Used
+- PHP
+- MySQL
+- HTML
+- CSS
 
-* User Registration & Login System
-* Secure Password Hashing
-* Session Management
-* Create Blog Posts
-* Read/View Posts
-* Update Posts
-* Delete Posts
+## Project Structure
+- index.php - Display all posts with search and pagination
+- create_post.php - Create new posts
+- edit_post.php - Update existing posts
+- delete_post.php - Delete posts
+- db.php - Database connection
 
-## 🛠️ Technologies Used
-
-* PHP
-* MySQL
-* XAMPP Server
-* HTML
-* CSS (optional)
-
-## 📂 Project Setup
-
+## How to Run
 1. Install XAMPP
-2. Start Apache and MySQL in XAMPP
-3. Copy project folder to `htdocs`
-4. Create database in phpMyAdmin
-5. Import SQL file
-6. Run project in browser:
-
-   ```
+2. Start Apache and MySQL
+3. Place the project folder inside htdocs
+4. Create the database and tables
+5. Open:
    http://localhost/blog-app/
-   ```
 
-## 🚀 How to Run
-
-* Open browser
-* Go to `localhost`
-* Register a new user
-* Login and start creating posts
-
-
-## 👨‍💻 Author
-
-upendra
-
-This project is for educational purposes only.
+## Author
+Hema Harshitha
