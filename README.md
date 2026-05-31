@@ -33,4 +33,4 @@ A PHP and MySQL based Blog Application that allows users to manage blog posts ef
    http://localhost/blog-app/
 
 ## Author
-Hema Harshitha
+Upendra K
